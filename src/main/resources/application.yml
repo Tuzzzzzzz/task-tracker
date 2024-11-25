@@ -1,0 +1,3 @@
+spring:
+  config:
+    import: file:${HOME}/my_config/task-tracker/application.yml
